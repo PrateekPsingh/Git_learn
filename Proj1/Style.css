@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color:#E5E5FD;
+    border:10px solid #1D1E4C;
+    height:100vh;
+}
+
+.Image{
+    height: 200px;
+    width: auto;
+
+}
+.name{
+font-family: Inter ;
+font-size: 48px;
+line-height: 20px
+}
